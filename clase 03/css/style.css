@@ -1,3 +1,5 @@
+@import url("https://fonts.googleapis.com/css2?family=Jersey+25&display=swap");
+
 body {
   background-color: black;
   color: white;
@@ -15,4 +17,21 @@ p {
 .clase1 {
   font-size: 18px;
   color: darkred;
+}
+footer {
+  background-color: dimgrey;
+  padding: 1rem;
+}
+
+.encabezado {
+  font-family: "Jersey 25", sans-serif;
+  font-size: 5rem;
+  font-weight: bold;
+  font-style: normal;
+  color: whitesmoke;
+  text-align: center;
+  padding: 2rem;
+  background-color: dimgrey;
+  background: url(../imgs/color\ rain.jpg);
+  background-repeat: no-repeat, align center;
 }
