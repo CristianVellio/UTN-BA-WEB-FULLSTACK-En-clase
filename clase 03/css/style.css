@@ -33,5 +33,5 @@ footer {
   padding: 2rem;
   background-color: dimgrey;
   background: url(../imgs/color\ rain.jpg);
-  background-repeat: no-repeat, align center;
+  background-repeat: no-repeat;
 }
