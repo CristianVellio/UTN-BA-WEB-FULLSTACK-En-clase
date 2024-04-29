@@ -1,0 +1,26 @@
+.box_model {
+  background-color: aquamarine;
+  width: 250px;
+  height: auto;
+  padding-top: 10px;
+  padding-right: 40px;
+  padding-bottom: 30px;
+  padding-left: 20px;
+  /* Es lo mismo haciéndolo uno a uno o en la misma linea siguiendo
+    el sentido de las agujas del reloj */
+  padding: 10px 40px 30px 20px;
+  /* overflow: auto; */
+  margin: 10px, 40px; /*Arriba y Abajo*/
+  border: solid 2px black;
+}
+
+.menu {
+  padding: 5px;
+  border: solid 3px black;
+}
+
+.menu ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
