@@ -1,0 +1,26 @@
+.contenedor_padre {
+  display: flex;
+  background-color: coral;
+}
+
+.caja {
+  height: 150px;
+  width: 150px;
+}
+.rojo {
+  background-color: red;
+  height: 100px;
+}
+.verde {
+  background-color: green;
+}
+.amarillo {
+  background-color: yellow;
+}
+.azul {
+  background-color: blue;
+}
+.violeta {
+  background-color: violet;
+  height: 200px;
+}
