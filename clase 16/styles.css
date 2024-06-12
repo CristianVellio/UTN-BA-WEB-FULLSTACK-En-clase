@@ -1,0 +1,30 @@
+html {
+  font-size: 10px;
+}
+
+body {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  background-color: #f0f0f0;
+  color: #333;
+  margin: 0;
+  padding: 2rem;
+}
+
+#titulo {
+  color: chartreuse;
+}
+
+.parrafo {
+  font-size: 1.6rem;
+}
+
+button {
+  background-color: cadetblue;
+  color: white;
+  border: none;
+  padding: 1rem 2rem;
+  margin: 0.5rem;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
