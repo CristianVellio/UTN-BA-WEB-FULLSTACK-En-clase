@@ -1,0 +1,12 @@
+.boton {
+  background-color: gold;
+  color: white;
+  padding: 1rem;
+  border-radius: 0.5rem;
+  cursor: pointer;
+  margin: 0.5rem;
+}
+
+.hover:hover {
+  background-color: gray;
+}
